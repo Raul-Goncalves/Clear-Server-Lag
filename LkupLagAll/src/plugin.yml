@@ -1,0 +1,6 @@
+name: LkupLagAll
+main: me.br.raulzindograu.lkup.Lagg.Main
+version: 1.0
+author: RaulzindoGrau
+commands:
+  lag:

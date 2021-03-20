@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LkupLaggAll">
+    <output-path>$USER_HOME$/Desktop/SERVIDOR TESTE/plugins</output-path>
+    <root id="archive" name="LkupLaggAll.jar">
+      <element id="module-output" name="LkupLagAll" />
+    </root>
+  </artifact>
+</component>
